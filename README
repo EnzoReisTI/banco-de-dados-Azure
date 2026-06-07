@@ -1,0 +1,28 @@
+# Boa noite a todos, Meu nome é Enzo e sou um inscrito no Curso da DIO "Microsoft - GitHub Copilot e Azure Serverless na Prática"
+
+Estou aqui entregando um projeto de como criar um banco de dados na Azure e como acessar a plataforma.
+
+Irei fazer um tutorial em forma de Tópicos e de forma sequencial.
+
+1. Começo
+
+Primeiro de tudo voce deve acessar o site "https://azure.microsoft.com/pt-br" e clickar em "Teste gratuito" e após isso voce irar fazer sua inscrição no site.
+
+PONTO IMPORTANTE: A plataforma AZURE ira necessitar de utilização de um cartão de crédito para dar continuidade como forma de provar se voce existe. Não será descontado nada da sua conta.
+
+Após isso você terá acesso a plataforma da azure.
+
+2. Banco de dados
+
+Haverá uma barra lateral a esquerda da tela, listando varias funcionalidades da Azure e inclusive o banco de dados que será o foco desse projeto.
+
+Você selecionará o banco de dados e irar selecionar a opção "criar" e a partir desse momento voce começara a configuração do banco 
+
+PONTO IMPORTANTE: Será necessário criar um servidor para hospedar o banco. Quando fizer a configuração do mesmo, ele irar pedir para criar um servidor.
+
+
+Durante a configuração voce irar escolher o nome do banco(Não pode ser um nome que já existe), vai selecionar em que região voce irar hospedar esse banco(dependendo do local não será possivel devido a assinatura ser gratuita) e mais algumas opções que é bom manter o que já está marcado caso você não tenha conhecimento aprofundado sobre o assunto
+
+3. FIM
+
+E após essas configurações(servidor e banco de dados) voce poderá utilizar a vontade seu novo banco de dados da AZURE.
